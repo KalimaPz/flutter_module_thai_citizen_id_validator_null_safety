@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   
   thai_pid_validator:
-    git: https://github.com/KalimaPz/flutter_module_thai_citizen_id_validator_null_safety.
+    git: https://github.com/KalimaPz/flutter_module_thai_citizen_id_validator_null_safety.git
 ```
 ## Example main.dart
 ``` 
